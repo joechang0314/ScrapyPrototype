@@ -24,7 +24,7 @@ flask run
 ```
 * Example mongoDB
 ```
-MONGODB_SERVER = "mongodb+srv://admin:yjE6ATG1I0xMe619@cluster0.wsrjh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+MONGODB_SERVER = "mongodb+srv://admin:alreadychanged@cluster0.wsrjh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 MONGODB_PORT = 27017
 MONGODB_DB = "prototype"
 MONGODB_COLLECTION = "articles"
