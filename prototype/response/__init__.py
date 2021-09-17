@@ -2,9 +2,6 @@ from flask import jsonify,make_response
 
 class Response:
 
-    message = None
-    code = None
-
     @staticmethod
     def error(message, code):
         response = make_response(
