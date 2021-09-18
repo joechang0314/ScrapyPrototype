@@ -19,7 +19,7 @@ scrapy crawl blogspider
 ```
 * run flask
 ```
-export FLASK_APP=server`
+export FLASK_APP=server
 flask run
 ```
 * Example mongoDB
